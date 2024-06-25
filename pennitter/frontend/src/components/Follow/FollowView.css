@@ -1,0 +1,11 @@
+.followViewDiv {
+  display: flex;
+}
+
+.followViewDiv .appUserImg {
+  height: 46px;
+  width: auto;
+  max-width: 56px;
+  vertical-align: bottom;
+  margin-right: 2px;
+}

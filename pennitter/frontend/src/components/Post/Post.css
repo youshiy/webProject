@@ -1,0 +1,30 @@
+.postDiv {
+  margin: 10px;
+}
+
+.MuiTextField-root {
+  width: 100%;
+}
+
+.postDiv input {
+  width: 560px;
+}
+
+.postDiv img {
+  height: 315px;
+  width: auto;
+  max-width: 560px;
+}
+
+.postDiv video {
+  height: 315px;
+  width: 560px;
+}
+
+.postDiv .postAuthorImg {
+  height: 46px;
+  width: auto;
+  max-width: 56px;
+  vertical-align: bottom;
+  margin-right: 2px;
+}

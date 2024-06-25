@@ -1,0 +1,10 @@
+.activityFeedScreenDiv {
+  width: 75%;
+  margin: auto;
+}
+
+.activityFeedScreenDiv .activityFeedScreenHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

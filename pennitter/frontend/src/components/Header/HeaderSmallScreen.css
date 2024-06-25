@@ -1,0 +1,11 @@
+#navbar-hamburger-menu ul button {
+  display: block !important;
+  width: 100%;
+  margin: 8px 0px 8px 0px !important;
+  background: #1976d2 !important;
+}
+
+#navbar-hamburger-menu ul button a {
+  text-decoration: none;
+  color: white;
+}
